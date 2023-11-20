@@ -1,0 +1,19 @@
+Index: readme.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Hello world
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/readme.txt b/readme.txt
+--- a/readme.txt	(revision d928126f35ac90443062a637a56cde635a0feb4a)
++++ b/readme.txt	(date 1700486567350)
+@@ -1,1 +1,5 @@
+-Hello world
+\ No newline at end of file
++Hello world
++
++
++
++readme file must be .md
+\ No newline at end of file

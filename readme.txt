@@ -1,3 +1,5 @@
 Hello world
 
-README file must be Markdown format
+
+
+readme file must be .md
