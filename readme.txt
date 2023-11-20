@@ -1,5 +1,2 @@
 Hello world
-
-
-
-readme file must be .md
+readme must be markdown format (zadushnil)
